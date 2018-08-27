@@ -1,0 +1,2 @@
+# CRM-Customer_Relationship_Management-
+基于Django开发的CRM权限系统
